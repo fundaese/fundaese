@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **fundaese@gmail.com**
 
-- 📄 Know about my experiences [https://novoresume.com/editor/resume/11970c80-cb77-11ea-9351-7d9bf919762a](https://novoresume.com/editor/resume/11970c80-cb77-11ea-9351-7d9bf919762a)
+- 📄 Know about my experiences [Funda's Resume.pdf](https://github.com/fundaese/fundaese/files/12706480/Funda.s.Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
