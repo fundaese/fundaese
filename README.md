@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Funda</h1>
-<h3 align="center">Mobile Application Developer at Huawei</h3>
+<h3 align="center">Android Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fundaese&label=Profile%20views&color=0e75b6&style=flat" alt="fundaese" /> </p>
 
